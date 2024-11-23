@@ -46,7 +46,7 @@ incrementBtn.addEventListener("click", function () {
 
 resetBtn.addEventListener("click", function () {
     // Write code below this line
-    resetCount();
+    resetCount(); // call reset function
     
 
     // STOP HERE
@@ -57,7 +57,7 @@ resetBtn.addEventListener("click", function () {
 
 decrementBtn.addEventListener("click", function () {
     // Write code below this line
-    decrementCount();
+    decrementCount(); // call decrement function
 
 
     // STOP HERE
