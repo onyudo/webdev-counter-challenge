@@ -1,5 +1,17 @@
-1. Why do you use "using strict" at the top of your JS files?
+1. Why do you use "using strict" at the top of your JS files
+
+"use strict" enables JavaScript's strict mode. It has stricter parsing and error handling.
+
 2. What does line 3 mean?
+
+"let count = 0;" creates a variable named count with the current value set to zero.
+
 3. What is happening on lines 5-8 and why?
+
+In lines 5-8 the code is selecting elements from the HTML document using document.querySelector()
+and storing their values in their corresponding variables for use as the code runs.
+
 4. If you implemented the functionality of the buttons,
    why do you think I wrote the JS code the way I did?
+
+
